@@ -1,0 +1,369 @@
+header {
+    position: relative;
+    left: 40px;
+    color:#007d7b;
+    text-align: left;
+}
+
+body {
+    font-family:Arial;
+    background-color: #000000;
+    text-align: center;
+    width: 1310px;
+    margin: 0 auto;
+}
+
+nav li {
+    display: inline-block;
+}
+
+
+nav a {
+    color:#FFFFFF;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+nav a:hover {
+   color: #007d7b;
+}
+
+#tk {
+    position: relative;
+    bottom: 100px;
+    right: 217px;
+}
+
+.MoreInfo h2 {
+    position: relative;
+    right: 25px;
+    bottom: 25px;
+    color:#000000;
+    text-align: right;
+    font-size: 40px;
+}
+
+.MoreInfo p {
+    position: relative;
+    right: 25px;
+    bottom: 255px;
+    text-align: right;
+    font-size: 20px;
+}
+
+.MyWork h2 {
+    color:#000000;
+    position: relative;
+    left: 25px;
+    bottom: 260px;
+    text-align: left;
+    font-size: 40px;
+}
+
+.MyWork p {
+    color:#000000;
+    position: relative;
+    left: 25px;
+    bottom: 285px;
+    text-align: left;
+    font-size: 20px;
+}
+
+[href="#about"] {
+    position: relative;
+    left: 165px;
+    bottom: 45px;
+}
+
+[href="#gallery"] {
+    position: relative;
+    left: 265px;
+    bottom: 45px;
+}
+
+[href="#contact"] {
+    position: relative;
+    left: 365px;
+    bottom: 45px;
+}
+
+[href="#top"] {
+    position:fixed;
+    bottom:0px;
+    right:0px;
+    width: 50px;
+    height: 30px;
+    background-color: #007d7b;
+    font-size: small;
+}
+
+[href="#top"]:hover {
+    background-color: #FF8284;
+    color: #000000;
+}
+
+
+main {
+    background-color: #FFFFFF;
+    height: 1815px;
+    overflow: hidden;
+}
+
+
+
+#CHI {
+    position: relative;
+    right: 27px;
+    bottom: 300px;
+    width: 420px;
+    height: 281px;
+}
+
+#GUA {
+    position: relative;
+    left: 405px;
+    bottom: 597px;
+    width: 420px;
+    height: 281px;
+}
+
+#HAW {
+    position: relative;
+    left: 835px;
+    bottom: 895px;
+    width: 420px;
+    height: 281px;
+}
+
+#IRA {
+    position: relative;
+    right: 27px;
+    bottom: 897px;
+    width: 420px;
+    height: 630px;
+}
+
+#IRE {
+    position: relative;
+    left: 405px;
+    bottom: 1544px;
+    width: 420px;
+    height: 630px;
+}
+
+#ITA {
+    position: relative;
+    left: 835px;
+    bottom: 2190px;
+    width: 420px;
+    height: 630px;
+}
+
+#MOA {
+    position: relative;
+    right: 27px;
+    bottom: 2193px;
+    width: 420px;
+    height: 281px;
+}
+
+#ROC {
+    position: relative;
+    left: 405px;
+    bottom: 2490px;
+    width: 420px;
+    height: 281px;
+}
+
+#SWI {
+    position: relative;
+    left: 835px;
+    bottom: 2787px;
+    width: 420px;
+    height: 281px;
+}
+
+#UK {
+    position: relative;
+    right: 27px;
+    bottom: 2790px;
+    width: 420px;
+    height: 281px;
+}
+
+#USA {
+    position: relative;
+    left: 405px;
+    bottom: 3087px;
+    width: 420px;
+    height: 281px;
+}
+
+#WYO {
+    position: relative;
+    left: 835px;
+    bottom: 3384px;
+    width: 420px;
+    height: 281px;
+}
+
+.CHILE {
+    position: relative;
+    right: 160px;
+    bottom: 280px;
+    font-size: 16px;
+}
+
+.GUATEMALA {
+    position: relative;
+    right: 130px;
+    bottom: 275px;
+    color:#FFFFFF;
+}
+
+.HAWAII {
+    position: relative;
+    left: 125px;
+    bottom: 25px;
+    color:#FFFFFF;
+}
+
+.IRAN {
+    position: relative;
+    right: 165px;
+    bottom: 630px;
+}
+
+.IRELAND {
+    position: relative;
+    left: 115px;
+    bottom: 25px;
+    color:#FFFFFF;
+}
+
+.ITALYs {
+    position: relative;
+    right: 160px;
+    bottom: 25px;
+    color:#FFFFFF;
+}
+
+.MOAB {
+    position: relative;
+    bottom: 25px;
+    left: 75px;
+    color:#FFFFFF;
+}
+
+.ROCKY {
+    position: relative;
+    right: 105px;
+    bottom: 280px;
+    font-size: 16px;
+}
+
+.SWITZERLAND {
+    position: relative;
+    right: 120px;
+    bottom: 25px;
+}
+
+.UK {
+    position: relative;
+    left: 155px;
+    bottom: 25px;
+    color:#FFFFFF;
+}
+
+.USA {
+    position: relative;
+    right: 170px;
+    bottom: 280px;
+    color:#FFFFFF;
+}
+
+.WYOMING {
+    position: relative;
+    right: 145px;
+    bottom: 278px;
+    color: #FFFFFF;
+}
+
+#MessageMe {
+    position: relative;
+    color:#FFFFFF;
+    background-color: #000000;
+    text-align: center;
+}
+
+#MessageMe h2 {
+    position: relative;
+    bottom: 5x;
+}
+
+#MessageMe p {
+    position: relative;
+    bottom: 15px;
+}
+
+.ContactForm {
+    position: relative;
+    bottom: 10px;
+    color:#FFFFFF; 
+    text-align: center;
+}
+
+fieldset {
+    border: none;
+}
+
+
+label {
+    font-size: 16px;
+    position: relative;
+    bottom: 25px;
+    right: 355px;
+}
+
+ label[for="message"] {
+    position:relative;
+    right: 340px;
+}
+ 
+input {
+    position: relative;
+    bottom: 25px;
+    width: 750px;
+    height: 35px;
+}
+
+
+input[type="submit"] {
+    position: relative;
+    bottom: 15px;
+    background-color: #007d7b;
+    width: 200px;
+    border-radius: 25px;
+    color:#FFFFFF;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: #FF8284;
+    color: #000000;
+}
+
+::placeholder {
+    color:#007d7b;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+footer {
+    position: relative;
+    bottom: 15px;
+    color:#FFFFFF;
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: -2500px;
+}
